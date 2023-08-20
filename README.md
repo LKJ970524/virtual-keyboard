@@ -8,4 +8,16 @@
 - [] 키보드 키로도 작동되도록 구현해주세요.
 
 
-npm install 한후 package.json에 입력된 scripts를 참고하여 dev server를 실행하거나 build 하면 됩니다.
+
+
+#### 패키지 설치
+
+```bash
+npm install
+```
+
+#### 실행
+
+```bash
+npm run dev
+```
