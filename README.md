@@ -13,7 +13,7 @@
 #### 패키지 설치
 
 ```bash
-npm install
+npm install 또는 npm i
 ```
 
 #### 실행
