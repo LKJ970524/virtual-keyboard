@@ -11,6 +11,7 @@ css를 적용시켰고 키보드처럼 보이게 만들었습니다.
 21일 내용처럼 한글입력불가는 display : none을 넣어 안보여지게 설정했습니다.
 <p aline="center"><img src = "https://github.com/LKJ970524/virtual-keyboard/assets/115642699/257432c8-aa1e-45e2-bce1-7462c8c617e2"></p>
 현재 다크모드는 적용되지 않았지만 css에 다크모드시 색상이 반전되게 `filter: invert(100%) hue-rotate(180deg)`를 적용시켜놨습니다.
+
 ### 🏅 프로젝트 목표
 > 슬라이드가 필요한 ui에서는 swiper.js를 사용해주세요.
 - [ ] 키보드가 눌러질때 실제버튼이 눌러지는것처럼 표현하기
